@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent Passing Data</string>
+
+    <string name="title_activity_main">Halaman Utama</string>
+    <string name="title_activity_receiver">Halaman yang Menerima Data</string>
+
+    <string name="label_button_pass_data">Intent dengan data</string>
+</resources>
